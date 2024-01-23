@@ -1,0 +1,14 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\bin\Debug\net8.0\Degiskenler ve Veri tipleri.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\bin\Debug\net8.0\Degiskenler ve Veri tipleri.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\bin\Debug\net8.0\Degiskenler ve Veri tipleri.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\bin\Debug\net8.0\Degiskenler ve Veri tipleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\bin\Debug\net8.0\Degiskenler ve Veri tipleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\refint\Degiskenler ve Veri tipleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\Degiskenler ve Veri tipleri.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Degiskenler ve Veri tipleri\obj\Debug\net8.0\ref\Degiskenler ve Veri tipleri.dll
