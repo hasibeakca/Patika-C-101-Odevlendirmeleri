@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\bin\Debug\net8.0\TipDonusumleri.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\bin\Debug\net8.0\TipDonusumleri.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\bin\Debug\net8.0\TipDonusumleri.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\bin\Debug\net8.0\TipDonusumleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\bin\Debug\net8.0\TipDonusumleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\refint\TipDonusumleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\TipDonusumleri.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\TipDonusumleri\obj\Debug\net8.0\ref\TipDonusumleri.dll
