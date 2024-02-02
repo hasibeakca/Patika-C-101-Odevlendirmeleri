@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\refint\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\ref\For Loop ve Break Continue Ifadeleri.dll
