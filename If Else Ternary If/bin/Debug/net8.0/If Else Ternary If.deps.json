@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "If Else Ternary If/1.0.0": {
+        "runtime": {
+          "If Else Ternary If.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If Else Ternary If/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

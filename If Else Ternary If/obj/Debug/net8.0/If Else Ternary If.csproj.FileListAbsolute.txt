@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\bin\Debug\net8.0\If Else Ternary If.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\bin\Debug\net8.0\If Else Ternary If.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\bin\Debug\net8.0\If Else Ternary If.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\bin\Debug\net8.0\If Else Ternary If.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\bin\Debug\net8.0\If Else Ternary If.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\refint\If Else Ternary If.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\If Else Ternary If.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\If Else Ternary If\obj\Debug\net8.0\ref\If Else Ternary If.dll
