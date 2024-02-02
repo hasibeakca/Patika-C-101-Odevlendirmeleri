@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\refint\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\Try Catch Finally Ve Mantıksal Hatalar.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net8.0\ref\Try Catch Finally Ve Mantıksal Hatalar.dll

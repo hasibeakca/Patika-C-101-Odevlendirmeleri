@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Try Catch Finally Ve Mantıksal Hatalar/1.0.0": {
+        "runtime": {
+          "Try Catch Finally Ve Mantıksal Hatalar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try Catch Finally Ve Mantıksal Hatalar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
