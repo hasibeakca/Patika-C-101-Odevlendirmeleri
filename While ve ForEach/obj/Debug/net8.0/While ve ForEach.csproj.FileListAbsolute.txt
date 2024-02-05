@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\bin\Debug\net8.0\While ve ForEach.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\bin\Debug\net8.0\While ve ForEach.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\bin\Debug\net8.0\While ve ForEach.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\bin\Debug\net8.0\While ve ForEach.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\bin\Debug\net8.0\While ve ForEach.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\refint\While ve ForEach.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\While ve ForEach.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\While ve ForEach\obj\Debug\net8.0\ref\While ve ForEach.dll
