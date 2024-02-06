@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\bin\Debug\net8.0\Array Sinifi Metodlari.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\bin\Debug\net8.0\Array Sinifi Metodlari.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\bin\Debug\net8.0\Array Sinifi Metodlari.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\bin\Debug\net8.0\Array Sinifi Metodlari.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\bin\Debug\net8.0\Array Sinifi Metodlari.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\refint\Array Sinifi Metodlari.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\Array Sinifi Metodlari.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Array Sinifi Metodlari\obj\Debug\net8.0\ref\Array Sinifi Metodlari.dll
