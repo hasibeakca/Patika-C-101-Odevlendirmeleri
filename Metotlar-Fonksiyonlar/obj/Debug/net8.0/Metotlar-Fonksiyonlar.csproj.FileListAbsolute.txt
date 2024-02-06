@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\bin\Debug\net8.0\Metotlar-Fonksiyonlar.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\bin\Debug\net8.0\Metotlar-Fonksiyonlar.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\bin\Debug\net8.0\Metotlar-Fonksiyonlar.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\bin\Debug\net8.0\Metotlar-Fonksiyonlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\bin\Debug\net8.0\Metotlar-Fonksiyonlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\refint\Metotlar-Fonksiyonlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\Metotlar-Fonksiyonlar.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Metotlar-Fonksiyonlar\obj\Debug\net8.0\ref\Metotlar-Fonksiyonlar.dll
