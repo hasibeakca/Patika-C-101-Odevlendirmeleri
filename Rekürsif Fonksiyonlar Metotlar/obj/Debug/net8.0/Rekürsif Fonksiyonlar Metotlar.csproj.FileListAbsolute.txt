@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\bin\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\bin\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\bin\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\bin\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\bin\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\refint\Rekürsif Fonksiyonlar Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\Rekürsif Fonksiyonlar Metotlar.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Rekürsif Fonksiyonlar Metotlar\obj\Debug\net8.0\ref\Rekürsif Fonksiyonlar Metotlar.dll
