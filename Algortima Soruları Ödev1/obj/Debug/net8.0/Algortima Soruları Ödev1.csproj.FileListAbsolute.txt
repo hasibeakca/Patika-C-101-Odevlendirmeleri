@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\bin\Debug\net8.0\Algortima Soruları Ödev1.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\bin\Debug\net8.0\Algortima Soruları Ödev1.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\bin\Debug\net8.0\Algortima Soruları Ödev1.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\bin\Debug\net8.0\Algortima Soruları Ödev1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\bin\Debug\net8.0\Algortima Soruları Ödev1.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\refint\Algortima Soruları Ödev1.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\Algortima Soruları Ödev1.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Algortima Soruları Ödev1\obj\Debug\net8.0\ref\Algortima Soruları Ödev1.dll
