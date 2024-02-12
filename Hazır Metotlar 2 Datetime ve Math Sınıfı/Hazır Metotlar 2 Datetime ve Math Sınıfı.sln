@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazır Metotlar 2 Datetime ve Math Sınıfı", "Hazır Metotlar 2 Datetime ve Math Sınıfı.csproj", "{A25A3DC5-0A04-4481-9575-EB1424884459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25A3DC5-0A04-4481-9575-EB1424884459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25A3DC5-0A04-4481-9575-EB1424884459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25A3DC5-0A04-4481-9575-EB1424884459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25A3DC5-0A04-4481-9575-EB1424884459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E68434-23C3-46D4-80A9-6861E838FD6A}
+	EndGlobalSection
+EndGlobal
