@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\bin\Debug\net8.0\String Metotlar.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\bin\Debug\net8.0\String Metotlar.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\bin\Debug\net8.0\String Metotlar.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\bin\Debug\net8.0\String Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\bin\Debug\net8.0\String Metotlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\refint\String Metotlar.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\String Metotlar.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\String Metotlar\obj\Debug\net8.0\ref\String Metotlar.dll
