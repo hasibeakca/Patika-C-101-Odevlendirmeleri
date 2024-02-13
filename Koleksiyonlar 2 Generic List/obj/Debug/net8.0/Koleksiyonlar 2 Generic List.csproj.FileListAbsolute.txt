@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\bin\Debug\net8.0\Koleksiyonlar 2 Generic List.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\bin\Debug\net8.0\Koleksiyonlar 2 Generic List.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\bin\Debug\net8.0\Koleksiyonlar 2 Generic List.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\bin\Debug\net8.0\Koleksiyonlar 2 Generic List.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\bin\Debug\net8.0\Koleksiyonlar 2 Generic List.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\refint\Koleksiyonlar 2 Generic List.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\Koleksiyonlar 2 Generic List.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 2 Generic List\obj\Debug\net8.0\ref\Koleksiyonlar 2 Generic List.dll
