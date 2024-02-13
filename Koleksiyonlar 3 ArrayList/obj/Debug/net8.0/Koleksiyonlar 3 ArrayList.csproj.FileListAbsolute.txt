@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\bin\Debug\net8.0\Koleksiyonlar 3 ArrayList.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\bin\Debug\net8.0\Koleksiyonlar 3 ArrayList.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\bin\Debug\net8.0\Koleksiyonlar 3 ArrayList.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\bin\Debug\net8.0\Koleksiyonlar 3 ArrayList.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\bin\Debug\net8.0\Koleksiyonlar 3 ArrayList.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\refint\Koleksiyonlar 3 ArrayList.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\Koleksiyonlar 3 ArrayList.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Koleksiyonlar 3 ArrayList\obj\Debug\net8.0\ref\Koleksiyonlar 3 ArrayList.dll
