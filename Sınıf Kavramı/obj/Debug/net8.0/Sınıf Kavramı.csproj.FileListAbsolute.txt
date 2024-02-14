@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\bin\Debug\net8.0\Sınıf Kavramı.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\bin\Debug\net8.0\Sınıf Kavramı.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\bin\Debug\net8.0\Sınıf Kavramı.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\bin\Debug\net8.0\Sınıf Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\bin\Debug\net8.0\Sınıf Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\refint\Sınıf Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\Sınıf Kavramı.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Sınıf Kavramı\obj\Debug\net8.0\ref\Sınıf Kavramı.dll
