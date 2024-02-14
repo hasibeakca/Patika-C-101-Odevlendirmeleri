@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\bin\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\bin\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\bin\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\bin\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\bin\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\refint\Kurucu Fonksiyonlar Constructor Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\Kurucu Fonksiyonlar Constructor Kavramı.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Kurucu Fonksiyonlar Constructor Kavramı\obj\Debug\net8.0\ref\Kurucu Fonksiyonlar Constructor Kavramı.dll
