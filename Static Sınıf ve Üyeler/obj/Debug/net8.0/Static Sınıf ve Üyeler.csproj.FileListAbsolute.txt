@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\refint\Static Sınıf ve Üyeler.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Static Sınıf ve Üyeler\obj\Debug\net8.0\ref\Static Sınıf ve Üyeler.dll
