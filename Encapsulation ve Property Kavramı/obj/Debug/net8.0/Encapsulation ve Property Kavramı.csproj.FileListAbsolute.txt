@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\refint\Encapsulation ve Property Kavramı.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Encapsulation ve Property Kavramı\obj\Debug\net8.0\ref\Encapsulation ve Property Kavramı.dll
